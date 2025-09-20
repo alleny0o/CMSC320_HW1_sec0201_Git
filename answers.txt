@@ -5,3 +5,8 @@ Answer: It is a great tool for tracking changes in code and collaborating with o
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: E-commerce as it involves a lot of product data and customer data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging adds a new commit that combines changes, preserving history. Rebasing rewrites the history by replaying your commits on top of another branch, resulting in a linear history.
+
